@@ -1,0 +1,28 @@
+body{
+    background-color: purple;
+
+}
+button{
+    height: 50px;
+
+    width: 120px;
+    border-radius: 30px;
+    font-size: 40px;
+    background-color: blanchedalmond;
+    
+}
+#new{
+    font-size: 30px;
+    border-radius: 2px solid black;
+    background-color: rgb(121, 15, 86);
+    height: 40px;
+    width: 500px;
+    border-radius: 15px;
+    color: wheat;
+    
+}
+
+#photo{
+    justify-content: space-between;
+    align-items: center;
+}
